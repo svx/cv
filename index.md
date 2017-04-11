@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Sven Strack's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Sven Strack
+DevOp
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
@@ -20,7 +20,7 @@ I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at
 
 ## Employment
 
-`2015-` 
+`2015-`
 __Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
 
 ## Education
@@ -99,21 +99,21 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Technical skills
 
-* R
-* Statistics
-* LaTeX
-* Git / Mercurial
+* Nginx/Apache/Caddy
+* macOS
+* Docker
+* Git
 * UNIX
-* Python
-* Machine learning
+* rkt
+* KVM
 * Bash
-* Emacs
-* Inkscape
-* Data visualisation
-* Mediawiki
-* Cluster computing
+* Snappy
+* LXC/LXD
+* Debian/Ubuntu/Fedora/Alpine
+* Plone
+* Varnish
 * HTML and CSS
-* Javascript
+* More ...
 
 ## Projects
 
