@@ -69,7 +69,7 @@ _Documentation for developer_ (MIT, Boston)
 
 ## Technical skills
 
-- Nginx/Apache/Caddy
+- Nginx/Apache/Caddy/Lighttpd
 - macOS
 - Docker
 - Git
@@ -102,5 +102,11 @@ _Documentation for developer_ (MIT, Boston)
 - Zabbix
 - Sensu
 - Munin
+- OpenShift
+- Project Atomic
+- CoreOS
+- RancherOS
+- Heroku
+- NPM
 
 <!-- ### Footer Last updated: April 2017 -->
