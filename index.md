@@ -13,7 +13,7 @@ DevOp
 </i> <a href="http://github.com/svx">svx</a>
 |
 <i class="fa fa-twitter">
-</i> <a href="http://twitter.com/der_sven_">der<em>sven</em></a></div>
+</i> <a href="http://twitter.com/der_sven_">der_sven_</a></div>
 
 ## Currently
 
@@ -109,4 +109,4 @@ _Documentation for developer_ (MIT, Boston)
 - Heroku
 - NPM
 
-<!-- ### Footer Last updated: April 2017 -->
+<!-- ### Footer Last updated: April 2017 --> _
