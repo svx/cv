@@ -108,5 +108,6 @@ _Documentation for developer_ (MIT, Boston)
 - RancherOS
 - Heroku
 - NPM
+- Terraform
 
 <!-- ### Footer Last updated: April 2017 --> _
