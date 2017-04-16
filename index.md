@@ -1,169 +1,101 @@
 ---
 layout: cv
-title: Sven Strack's CV
+title: Sven Strack
 ---
+
 # Sven Strack
+
 DevOp
 
-<div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<div id="webaddress"><a href="mailto:sven@so36.net">sven@so36.net</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github">
+</i> <a href="http://github.com/svx">svx</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
-</div>
-
+<i class="fa fa-twitter">
+</i> <a href="http://twitter.com/der_sven_">der_sven_</a></div>
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I work as DevOp at [Milieudefensie](https://milieudefensie.nl).
+
+I am responsible for developing hosting, and maintenance of the whole web infrastructure stack, including continuous integration and building custom [Debian](https"//debian.org) packages.
 
 ## Employment
 
-`2015-`
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`2010-` **Milieudefensie** Developing, deploying and hosting the Web Infrastructure, based on [Plone](https://plone.org), Varnish, Borg, [Ansible](https://ansible.com) and Microservices.
 
-## Education
+`2009-10` **Toltech/AccelCloud** High performance hosting, private office clouds and storage clouds.
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2008` **Contactivity** Developing, deploying and hosting [Plone](https://plone.org), [eZ](https://ez.no/) and [WordPress](https://wordpress.org/) sites/portals.
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`2007`
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
-
-## Presentations
-
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
+**Waag Society--institute for art, science and technology** System and network administrator.
 
 ### Talks
 
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
+`2016` Plone Conference, Boston [Lightning Talk]
 
-MRC IGMM research seminars and section meetings (_various_)
+WriteTheDocs Meetup, Berlin
 
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
+WriteTheDocs Conference, Prague [Lightning Talk]
 
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
+`2015` Plone Conference, Bucharest
 
 `2014`
-_ISMB_ (Boston MA, USA)
 
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
+Plone Conference, Bristol
 
 `2013`
-_Genome informatics_ (CSHL NY, USA)
 
-_EpiGeneSys_ (Cambridge, UK)
+Plone Conference, Brazil
 
+### Trainings
 
-## Publications
+`2016` _Documentation for beginner_ (Plone Conference, Boston)
 
-<!-- ### Journals -->
-`2017`
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
-
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
-
-## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
-
-## Technical skills
-
-* Nginx/Apache/Caddy
-* macOS
-* Docker
-* Git
-* UNIX
-* rkt
-* KVM
-* Bash
-* Snappy
-* LXC/LXD
-* Debian/Ubuntu/Fedora/Alpine
-* Plone
-* Varnish
-* HTML and CSS
-* More ...
+_Documentation for developer_ (MIT, Boston)
 
 ## Projects
 
-### blog
+`2016` _[Test the Docs community](https://testthedocs.org)_ a small community around [ci] documentation testing.
 
-I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
+`2007 -` _[Plone CMS](https://plone.org)_ The Ultimate Enterprise CMS.
 
-### EdinbR
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+`2013 -` _[Plone documentation](https://docs.plone.org) team leader_
 
-### datarea
+`2014` _[Write the Docs community](http://www.writethedocs.org/)_ a series of conferences and local meetups focused on all things related to software documentation.
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+## Technical skills
 
-## Awards
+- Nginx/Apache/Caddy
+- macOS
+- Docker
+- Git
+- Ansibe, Salt, Puppet
+- rkt
+- KVM
+- Bash
+- Snappy
+- LXC/LXD
+- OpenVZ
+- Plone
+- WordPress
+- Varnish
+- HTML and CSS
+- Linux (most distros)
+- Vagrant
+- Packer
+- CI (Jenkins, Travis, CircleCI, Drone)
+- Various static blog engines (Hugo, Pelican, Jekyll)
+- Golang
+- Python
+- Sphinx
+- mkdocs
+- Asciidoctor
+- Markdown
+- reStructuredText
+- Packaging (deb, rpm, arch, nix)
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
-
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
-
-## References
-
-Available on request.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- ### Footer Last updated: April 2017 -->
