@@ -13,7 +13,7 @@ DevOp
 </i> <a href="http://github.com/svx">svx</a>
 |
 <i class="fa fa-twitter">
-</i> <a href="http://twitter.com/der_sven_">der_sven_</a></div>
+</i> <a href="http://twitter.com/der_sven_">der<em>sven</em></a></div>
 
 ## Currently
 
@@ -97,5 +97,10 @@ _Documentation for developer_ (MIT, Boston)
 - Markdown
 - reStructuredText
 - Packaging (deb, rpm, arch, nix)
+- Nagios
+- Icinga
+- Zabbix
+- Sensu
+- Munin
 
 <!-- ### Footer Last updated: April 2017 -->
