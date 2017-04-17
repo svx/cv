@@ -59,7 +59,7 @@ _There is more than one way to install Plone_ - (Plone Conference, Brazil)
 
 `2016` _Documentation for beginner_ (Plone Conference, Boston)
 
-_Documentation for developer_ (MIT, Boston)
+_Documentation driven development, how to integrate docs into your development workflow_ (MIT, Boston)
 
 `2014 -`
 
