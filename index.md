@@ -73,7 +73,7 @@ _Creating 'good' content, following SEO and other 'best practices'_
 
 `2013 -` _[Plone documentation](https://docs.plone.org) team leader_
 
-`2014` _[WriteTheDocs](http://www.writethedocs.org/)_, a series of conferences and local meetups focused on all things related to software documentation
+`2014 -` _[WriteTheDocs](http://www.writethedocs.org/)_, a series of conferences and local meetups focused on all things related to software documentation
 
 ## Technical skills
 
