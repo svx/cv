@@ -19,7 +19,7 @@ DevOp
 
 I work as DevOp at [Milieudefensie](https://milieudefensie.nl).
 
-I am responsible for developing, hosting, and maintaining the whole web infrastructure stack, including continuous integration and building custom [Debian](https://debian.org) packages.
+I am responsible for developing, hosting, and maintaining the whole web infrastructure stack, including, redundant failover setups, continuous integration and building custom [Debian](https://debian.org) packages.
 
 ## Employment
 
