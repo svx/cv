@@ -108,6 +108,7 @@ _Creating 'good' content, following SEO and other 'best practices'_
 - Sphinx
 - Mkdocs
 - Asciidoctor
+- GitBook
 - Markdown
 - reStructuredText
 - Nagios
