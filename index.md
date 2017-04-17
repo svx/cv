@@ -47,7 +47,7 @@ _Why documentation is important for your business_ - (Plone Symposium Tokyo)
 
 `2014`
 
-_Mr. Gutenberg, a buildout recipe which will install and setup Sphinx following documentation guidelines_ - (Plone Symposium Midwest, Oshkosh (Lightning Talk))
+_Mr. Gutenberg, a buildout recipe which will install and setup Sphinx, following documentation guidelines_ - (Plone Symposium Midwest, Oshkosh (Lightning Talk))
 
 _Cultural Learnings of Documentation for Make Benefit Glorious Nation of Plonistan_ - (Plone Conference, Bristol)
 
