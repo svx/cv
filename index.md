@@ -84,6 +84,7 @@ _Creating 'good' content, following SEO and other 'best practices'_
 - CoreOS
 - RancherOS
 - Heroku
+- DC/OS
 - macOS
 - Docker
 - rkt
