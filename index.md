@@ -77,7 +77,7 @@ _Creating 'good' content, following SEO and other 'best practices'_
 
 ## Technical skills
 
-- Webserver (Nginx, Apache,Caddy, Lighttpd)
+- Webserver (Nginx, Apache, Caddy, Lighttpd)
 - Linux (most distros)
 - Project Atomic
 - OpenShift
