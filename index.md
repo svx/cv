@@ -39,7 +39,7 @@ I am responsible for developing, hosting, and maintaining the whole web infrastr
 
 _Building docs in your CI environment_ - (WriteTheDocs Meetup, Berlin)
 
-_TestTheDocs a new community_ - (WriteTheDocs Conference, Prague (Lightning Talk))
+_TestTheDocs, a new community_ - (WriteTheDocs Conference, Prague (Lightning Talk))
 
 `2015` _The importance of documentation_ - (Plone Conference, Bucharest)
 
