@@ -15,99 +15,107 @@ DevOp
 <i class="fa fa-twitter">
 </i> <a href="http://twitter.com/der_sven_">der_sven_</a></div>
 
-## Currently
+## Current
 
 I work as DevOp at [Milieudefensie](https://milieudefensie.nl).
 
-I am responsible for developing hosting, and maintenance of the whole web infrastructure stack, including continuous integration and building custom [Debian](https"//debian.org) packages.
+I am responsible for developing, hosting, and maintaining the whole web infrastructure stack, including continuous integration and building custom [Debian](https"//debian.org) packages.
 
 ## Employment
 
-`2010-` **Milieudefensie** Developing, deploying and hosting the Web Infrastructure, based on [Plone](https://plone.org), Varnish, Borg, [Ansible](https://ansible.com) and Microservices.
+`2010 -` **Milieudefensie** Developing, deploying and hosting the Web Infrastructure, based on [Plone](https://plone.org), [WordPress](https://wordpress.org/), [PostgreSQL](https://www.postgresql.org/), [Varnish](https://varnish-cache.org/), [Borg](https://borgbackup.readthedocs.io/en/stable/), [Ansible](https://ansible.com), virtualization and microservices
 
-`2009-10` **Toltech/AccelCloud** High performance hosting, private office clouds and storage clouds.
+`2009` **Toltech/AccelCloud** High performance hosting, private office ~ and storage clouds
 
-`2008` **Contactivity** Developing, deploying and hosting [Plone](https://plone.org), [eZ](https://ez.no/) and [WordPress](https://wordpress.org/) sites/portals.
+`2008` **Contactivity** Developing, deploying and hosting [Plone](https://plone.org), [eZ](https://ez.no/) and [WordPress](https://wordpress.org/) sites/portals
 
 `2007`
 
-**Waag Society--institute for art, science and technology** System and network administrator.
+**Waag Society--institute for art, science and technology** System and network administrator, 4k video streaming
 
 ### Talks
 
-`2016` Plone Conference, Boston [Lightning Talk]
+`2016` _The future of docs.plone.org_ - (Plone Conference, Boston (Lightning Talk))
 
-WriteTheDocs Meetup, Berlin
+_Building docs in your CI environment_ - (WriteTheDocs Meetup, Berlin)
 
-WriteTheDocs Conference, Prague [Lightning Talk]
+_TestTheDocs a new community_ - (WriteTheDocs Conference, Prague (Lightning Talk))
 
-`2015` Plone Conference, Bucharest
+`2015` _The importance of documentation_ - (Plone Conference, Bucharest)
+
+_Why documentation is important for your business_ - (Plone Symposium Tokyo)
 
 `2014`
 
-Plone Conference, Bristol
+_Mr. Gutenberg, a buildout recipe which will install and setup Sphinx following documentation guidelines_ - (Plone Symposium Midwest, Oshkosh (Lightning Talk))
+
+_Cultural Learnings of Documentation for Make Benefit Glorious Nation of Plonistan_ - (Plone Conference, Bristol)
 
 `2013`
 
-Plone Conference, Brazil
+_There is more than one way to install Plone_ - (Plone Conference, Brazil)
 
-### Trainings
+### Given Trainings
 
 `2016` _Documentation for beginner_ (Plone Conference, Boston)
 
 _Documentation for developer_ (MIT, Boston)
 
+`2014 -`
+
+_Creating 'good' content, following SEO and other 'best practices'_
+
 ## Projects
 
-`2016` _[Test the Docs community](https://testthedocs.org)_ a small community around [ci] documentation testing.
+`2016` _[TestTheDocs](https://testthedocs.org)_, a small community around (CI) documentation testing
 
-`2007 -` _[Plone CMS](https://plone.org)_ The Ultimate Enterprise CMS.
+`2007 -` _[Plone CMS](https://plone.org)_, a enterprise CMS
 
 `2013 -` _[Plone documentation](https://docs.plone.org) team leader_
 
-`2014` _[Write the Docs community](http://www.writethedocs.org/)_ a series of conferences and local meetups focused on all things related to software documentation.
+`2014` _[WriteTheDocs](http://www.writethedocs.org/)_, a series of conferences and local meetups focused on all things related to software documentation
 
 ## Technical skills
 
-- Nginx/Apache/Caddy/Lighttpd
+- Webserver (Nginx, Apache,Caddy, Lighttpd)
+- Linux (most distros)
+- Project Atomic
+- OpenShift
+- CoreOS
+- RancherOS
+- Heroku
 - macOS
 - Docker
-- Git
-- Ansibe, Salt, Puppet
 - rkt
-- KVM
-- Bash
-- Snappy
 - LXC/LXD
+- Snappy
 - OpenVZ
+- KVM
+- Git
+- Packaging (deb, rpm, aur, nix)
+- Ansibe, Salt, Puppet
+- Bash
 - Plone
 - WordPress
 - Varnish
 - HTML and CSS
-- Linux (most distros)
 - Vagrant
 - Packer
+- Terraform
+- NPM
 - CI (Jenkins, Travis, CircleCI, Drone)
-- Various static blog engines (Hugo, Pelican, Jekyll)
-- Golang
-- Python
+- Static blog engines (Hugo, Pelican, Jekyll)
 - Sphinx
-- mkdocs
+- Mkdocs
 - Asciidoctor
 - Markdown
 - reStructuredText
-- Packaging (deb, rpm, arch, nix)
 - Nagios
 - Icinga
 - Zabbix
 - Sensu
 - Munin
-- OpenShift
-- Project Atomic
-- CoreOS
-- RancherOS
-- Heroku
-- NPM
-- Terraform
+- PostgreSQL
+- MariaDB
 
-<!-- ### Footer Last updated: April 2017 --> _
+<!-- ### Footer Last updated: April 2017 -->
