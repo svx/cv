@@ -93,7 +93,7 @@ _Creating 'good' content, following SEO and other 'best practices'_
 - KVM
 - Git
 - Packaging (deb, rpm, aur, nix)
-- Ansibe, Salt, Puppet
+- Ansible, Salt, Puppet
 - Bash
 - Plone
 - WordPress
