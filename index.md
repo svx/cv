@@ -67,7 +67,7 @@ _Creating 'good' content, following SEO and other 'best practices'_
 
 ## Projects
 
-`2016` _[TestTheDocs](https://testthedocs.org)_, a small community around (CI) documentation testing
+`2016 -` _[TestTheDocs](https://testthedocs.org)_, a small community around (CI) documentation testing
 
 `2007 -` _[Plone CMS](https://plone.org)_, a enterprise CMS
 
