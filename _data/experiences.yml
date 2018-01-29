@@ -1,0 +1,30 @@
+- experience:
+  role: DevOps Engineer
+  time: 2010 - Present
+  company: Milieudefensie
+  details: "Developing, deploying and hosting the Web Infrastructure,
+  based on Plone, WordPress, PostgreSQL, Varnish, Borg, Ansible, virtualization (OpenVZ, KVM, LXD) and microservices (Docker).
+  <br><br>
+  Usage of TravisCI, CricleCI and Drone for continuous integration (CI) and partly automated roll-outs."
+- experience:
+  role: AI Team Member
+  time: 2014 - Present
+  company: Plone Infrastructure Team
+  details: "Developing, deploying and maintaining the Plone core infrastructure, based on Ubuntu, FreeBSD, Gentoo and CoreOS.
+  <br><br>
+  We make heavily use of Ansible, Docker and Terraform."
+- experience:
+  role: Admin
+  time: 2009
+  company: Toltech/AccelCloud
+  details: "High performance hosting, private office ~ and storage clouds."
+- experience:
+  role: Developer
+  time: 2008
+  company: Contactivity
+  details: "Developing, deploying and hosting Plone, eZ and WordPress sites/portals."
+- experience:
+  role: Admin/NOC
+  time: 2007
+  company: Waag Society, Institute for Art, Science and Technology
+  details: "System and network administrator."

@@ -1,0 +1,40 @@
+- education:
+  degree: Documentation Do's and Don'ts
+  university: Plone Conference, Barcelona
+  time: 2017
+- education:
+  degree: Future of docs
+  university: Plone Midsummer Sprint, Finnland
+  time: 2017
+- education:
+  degree: The future of docs.plone.org - (Lightning Talk)
+  university: Plone Conference, Boston
+  time: 2016
+- education:
+  degree: Building docs in your CI environment
+  university: WriteTheDocs Meetup, Berlin
+  time: 2016
+- education:
+  degree: TestTheDocs, a new community - (Lightning Talk)
+  university: WriteTheDocs Conference, Prague
+  time: 2016
+- education:
+  degree: The importance of documentation
+  university: Plone Conference, Bucharest
+  time: 2015
+- education:
+  degree: Why documentation is important for your business
+  university: Plone Symposium Tokyo
+  time: 2015
+- education:
+  degree: Mr. Gutenberg, a buildout recipe for following documentation guidelines
+  university: Plone Symposium Midwest, Oshkosh
+  time: 2014
+- education:
+  degree: Cultural Learnings of Documentation for Make Benefit Glorious Nation of Plonistan
+  university: Plone Conference, Bristol
+  time: 2014
+- education:
+  degree: There is more than one way to install Plone
+  university: Plone Conference, Brazil
+  time: 2013

@@ -1,0 +1,16 @@
+- intro:
+  description: "Open Source Projects"
+
+- project:
+  title: Plone
+  link: "https://plone.org"
+  tagline: "A enterprise CMS."
+- project:
+  title: TestTheDocs
+  link: "https://testthedocs.org"
+  tagline: "A small community around (CI) documentation testing."
+- project:
+  title: WriteTheDocs
+  link: "http://writethedocs.org"
+  tagline: "A series of conferences and local meetups focused on all things related to software documentation."
+
