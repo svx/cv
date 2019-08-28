@@ -1,6 +1,29 @@
 - experience:
+  role: DocOps Engineer
+  time: December 2019 - Present
+  company: Pronovix
+  details: "Developing, deploying and maintaining quality assurance of APIs and documentation.
+  <br><br>
+  Usage of various continuous integration (CI) provider for automated checking."
+- experience:
   role: DevOps Engineer
-  time: 2010 - Present
+  time: September 2019 - October 2019
+  company: Sloppy
+  details: "Developing, deploying and maintaining the Infrastructure,
+  based on CentOS, DC/OS and Docker.
+  <br><br>
+  Usage of Ansible and Jenkins for continuous integration (CI) automated roll-outs."
+- experience:
+  role: DevOps Engineer
+  time: March 2018 - September 2019
+  company: Wundertax
+  details: "Developing, deploying and hosting the Web Infrastructure,
+  based on Plone, Varnish, Nginx, Kubernetes, Docker, AWS, and Deis.
+  <br><br>
+  Usage of CricleCI for continuous integration (CI) automated roll-outs."
+- experience:
+  role: DevOps Engineer
+  time: 2010 - March 2018
   company: Milieudefensie
   details: "Developing, deploying and hosting the Web Infrastructure,
   based on Plone, WordPress, PostgreSQL, Varnish, Borg, Ansible, virtualization (OpenVZ, KVM, LXD) and microservices (Docker).
@@ -12,7 +35,7 @@
   company: Plone Infrastructure Team
   details: "Developing, deploying and maintaining the Plone core infrastructure, based on Ubuntu, FreeBSD, Gentoo and CoreOS.
   <br><br>
-  We make heavily use of Ansible, Docker and Terraform."
+  We make heavily use of Jenkins, Ansible, Docker and Terraform."
 - experience:
   role: Admin
   time: 2009
@@ -28,3 +51,4 @@
   time: 2007
   company: Waag Society, Institute for Art, Science and Technology
   details: "System and network administrator."
+
