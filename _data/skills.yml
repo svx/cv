@@ -20,13 +20,13 @@
   name: Infra tools (Packer, Terraform)
   level: 95%
 - skill:
-  name: Hosting (KVM, XEN, OpenVZ, LXC/LXD)
+  name: Hosting (AWS, KVM, XEN, OpenVZ, LXC/LXD)
   level: 80%
 - skill:
   name: Container (Docker, rkt)
   level: 80%
 - skill:
-  name: Container hosting (CoreOS, RancherOS, k8, Portainer)
+  name: Container hosting (CoreOS, RancherOS, Kubernetes, DC/OS, Portainer)
   level: 70%
 - skill:
   name: Languages (Golang, Markdown, Bash, reST, Python)
@@ -40,4 +40,4 @@
 - skill:
   name: Other Operating Systems (macOS, FreeBSD)
 - skill:
-  name: Other (Varnish, Traefik, Heroku, Project Atomic, OpenShift, DC/OS, Snappy)
+  name: Other (Varnish, Traefik, Heroku, Project Atomic, OpenShift, Helm)
