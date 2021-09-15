@@ -1,12 +1,7 @@
 - education:
   degree: Write Drunk - Test Automated
-<<<<<<< HEAD
   university: FOSDEM
   time: 2019
-=======
-  university: FOSDEM 2019
-  time: 2017
->>>>>>> master
 - education:
   degree: Documentation Do's and Don'ts
   university: Plone Conference, Barcelona
