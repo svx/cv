@@ -1,6 +1,13 @@
 - experience:
-  role: DocOps Engineer, DX and Documentation Lead
-  time: December 2020 - Present
+  role: DX (Developer Experience) Lead
+  time: January 2022 - Present
+  company: Onna
+  details: "Developing and introducing new processes, guidelines and tooling.
+  <br><br>
+  Create the best DX possible for more efficiently and happiness."
+- experience:
+  role: DocOps Engineer,and Technical Documentation Lead
+  time: December 2020 - January 2022
   company: Onna
   details: "Developing, deploying and maintaining quality assurance of APIs and documentation.
   <br><br>
@@ -9,7 +16,7 @@
   Developing and introducing API design and test processes."
 - experience:
   role: DocOps Engineer
-  time: December 2019 - Present
+  time: December 2019 - September 2020
   company: Pronovix
   details: "Developing, deploying and maintaining quality assurance of APIs and documentation.
   <br><br>
