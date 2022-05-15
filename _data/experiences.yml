@@ -3,6 +3,13 @@
   time: January 2022 - Present
   company: Onna
   details: "Developing and introducing new processes, guidelines and tooling.
+  <ul>
+  <li>Templates and tooling for unified READMEs and documentation</li>
+  <li>Style-guides for Python, Docker and Docker Compose</li>
+  <li>Style-guide validation with pre-commit and CI</li>
+  <li>Monorepo setup with Pants</li>
+  <li>Creating company wide "Developer Handbook"</li>
+  </ul>
   <br><br>
   Create the best DX possible for more efficiently and happiness."
 - experience:
