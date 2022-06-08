@@ -9,6 +9,8 @@
   Style-guide validation with pre-commit and CI.
   Monorepo setup with Pants.
   Creating company-wide Developer Handbook.
+  Custom linter for Docker and Docker Compose.
+  Teaching good practices for Docker, Docker Compose and Podman.
   <br><br>
   Create the best DX possible for more efficiently and happiness."
 - experience:
