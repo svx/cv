@@ -5,11 +5,17 @@
   details: "Developing and introducing new processes, guidelines and tooling.
   <br><br>
   Templates and tooling for unified READMEs and documentation.
+  <br><br>
   Style-guides for Python, Docker and Docker Compose.
+  <br><br>
   Style-guide validation with pre-commit and CI.
+  <br><br>
   Monorepo setup with Pants.
+  <br><br>
   Creating company-wide Developer Handbook.
+  <br><br>
   Custom linter for Docker and Docker Compose.
+  <br><br>
   Teaching good practices for Docker, Docker Compose and Podman.
   <br><br>
   Create the best DX possible for more efficiently and happiness."
