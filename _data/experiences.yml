@@ -8,6 +8,8 @@
   <br><br>
   Style-guides for Python, Docker and Docker Compose.
   <br><br>
+  Introduce new CI setup and pipelines with faster checks and builds, reducing time to deploy.
+  <br><br>
   Style-guide validation with pre-commit and CI.
   <br><br>
   Monorepo setup with Pants.
