@@ -29,7 +29,7 @@
   name: Container (Docker, rkt)
   level: 95%
 - skill:
-  name: Container hosting (CoreOS, RancherOS, k8, Portainer)
+  name: Container hosting (CoreOS, RancherOS, K8, Portainer)
   level: 70%
 - skill:
   name: Languages (Golang, Markdown, Bash, reST, Python)
