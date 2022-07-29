@@ -23,7 +23,7 @@
   name: Infra tools (Packer, Terraform)
   level: 95%
 - skill:
-  name: Hosting (KVM, XEN, OpenVZ, LXC/LXD)
+  name: Hosting (KVM, XEN, OpenVZ, LXC/LXD, K8)
   level: 80%
 - skill:
   name: Container (Docker, rkt)
@@ -35,7 +35,7 @@
   name: Languages (Golang, Markdown, Bash, reST, Python)
   level: 50%
 - skill:
-  name: Monitoring (Nagios, Sensu, Icinga, Zabbix)
+  name: Monitoring (Nagios, Sensu, Icinga, Zabbix, Prometheus, Grafana, Datadog)
 - skill:
   name: Linux (most common distros)
 - skill:
