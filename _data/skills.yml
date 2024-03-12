@@ -1,8 +1,8 @@
 - skill:
-  name: OpenAPI, GraphQL (and related tooling for designing, mocking and testing)
+  name: OpenAPI, GraphQL (and related tooling for documentation, designing, mocking and testing)
   level: 99%
 - skill:
-  name: Webserver (Nginx, Apache, Caddy, Lighttpd)
+  name: Web server (Nginx, Apache, Caddy, Lighttpd)
   level: 98%
 - skill:
   name: CI (Jenkins, Travis, CircleCI, Drone)
@@ -11,7 +11,7 @@
   name: Static blog engines (Hugo, Pelican, Jekyll)
   level: 98%
 - skill:
-  name: Documentation tools (Sphinx, Mkdocs, Asciidoctor, GitBook, Docusaurus, etc)
+  name: Documentation tools (Sphinx, MkDocs, AsciiDoc, GitBook, Docusaurus, etc)
   level: 99%
 - skill:
   name: Packaging (deb, rpm, aur, nix)
@@ -23,21 +23,21 @@
   name: Infra tools (Packer, Terraform)
   level: 95%
 - skill:
-  name: Hosting (KVM, XEN, OpenVZ, LXC/LXD, K8)
+  name: Hosting (KVM, XEN, OpenVZ, LXC/LXD, K8s)
   level: 80%
 - skill:
   name: Container (Docker, rkt)
   level: 95%
 - skill:
-  name: Container hosting (CoreOS, RancherOS, K8, Portainer)
+  name: Container hosting (CoreOS, RancherOS, K8s, Portainer)
   level: 70%
 - skill:
   name: Languages (Golang, Markdown, Bash, reST, Python)
-  level: 50%
+  level: 60%
 - skill:
   name: Monitoring (Nagios, Sensu, Icinga, Zabbix, Prometheus, Grafana, Datadog)
 - skill:
-  name: Linux (most common distros)
+  name: Linux (most common distributions)
 - skill:
   name: Databases (MariaDB, PostgreSQL)
 - skill:

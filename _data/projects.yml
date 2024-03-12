@@ -7,8 +7,8 @@
   tagline: "A enterprise CMS."
 - project:
   title: TestTheDocs
-  link: "https://testthedocs.org"
-  tagline: "A small community around (CI) documentation testing."
+  link: "https://github.com/testthedocs"
+  tagline: "A small community around (CI) documentation testing and tooling."
 - project:
   title: WriteTheDocs
   link: "http://writethedocs.org"
