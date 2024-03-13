@@ -5,7 +5,7 @@
   name: Web server (Nginx, Apache, Caddy, Lighttpd)
   level: 98%
 - skill:
-  name: CI (Jenkins, Travis, CircleCI, Drone)
+  name: CI (Jenkins, Travis, CircleCI, Drone, GitHub Actions)
   level: 95%
 - skill:
   name: Static blog engines (Hugo, Pelican, Jekyll)
@@ -36,11 +36,9 @@
   level: 60%
 - skill:
   name: Monitoring (Nagios, Sensu, Icinga, Zabbix, Prometheus, Grafana, Datadog)
-- skill:
+- skill: 50%
   name: Linux (most common distributions)
-- skill:
-  name: Databases (MariaDB, PostgreSQL)
 - skill:
   name: Other Operating Systems (macOS, FreeBSD)
 - skill:
-  name: Other (Varnish, Traefik, Heroku, Project Atomic, OpenShift, DC/OS, Snappy)
+  name: Other (Varnish, Traefik, DC/OS, Snappy)
