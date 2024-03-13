@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Sven Strack
   tagline: Developer Experience and Technical Documentation
-  avatar: sven_scaled.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: sven.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: sven@so36.net
@@ -18,7 +18,7 @@ sidebar:
   timezone: Berlin Timezone
   #citizenship:
   #website: blog.webjeda.com #do not add http://
-  linkedin: www.linkedin.com/in/sven-strack-5b4b615
+  linkedin: sven-strack-5b4b615
   #xing: alandoe
   github: svx
   #telegram: # add your nickname without '@' sign
@@ -58,14 +58,16 @@ sidebar:
       link:
 
 career-profile:
-  title: Career Profile
+  title: About Me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Being involved into various open-source projects, I developed a strong passion for documentation and developer experience (DX).<br/>
+    For me (technical) documentation is more than "just" explaining how things are working.<br/>
+    Good documentation is part of a great developer and user experience.<br/>
+    <br/>
+    Let's put the fun back into reading documentation and create the best DX possible for more efficiently and happiness!
+    <br/>
+
+
 education:
   title: Talks
   info:
@@ -106,43 +108,80 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Technical Documentation Specialist
+    time: January 2023 - Present
+    company: Traefik Labs
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      - Developing and introducing new documentation processes, guidelines, and tooling.<br/>
+      - Creating new content and documentation structure for various projects to enhance the user experience based on good practices and user research.<br/>
+      - Introducing templates for unifying documentation and creating an improved UX.<br/>
+      - Migrating documentation from MkDocs to Docusaurus, introducing modern and good documentation practices and content guidelines.<br/>
+      - Implementing custom Docusaurus components to enhance the user experience.<br/>
+      - Introducing modern documentation quality checks (local and with CI).<br/>
+      - Creating custom QA rules and configurations for docs-like-code tools to set a baseline and enhance the quality of various documentation projects.<br/>
+      - Introducing dashboards and metrics (Grafana and Prometheus) for detailed documentation monitoring (PRs, amount of pages, amount of words per page, amount of lines per page and such).<br/>
+      - Integrating AI based search into documentation.<br/>
+      - Integrating custom search and search scraper with Typesense.<br/>
+  - role: DX (Developer Experience) Lead
+    time: January 2022 - December 2022
+    company: Onna
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Create the best DX possible for more efficiently and happiness.
+      - Developing and introducing new processes, guidelines and tooling.<br/>
+      - Templates and tooling for unified READMEs and documentation.<br/>
+      - Style-guides for Python, Docker and Docker Compose.<br/>
+      - Introduce new CI setup and pipelines with faster checks and builds, reducing time to deploy.<br/>
+      - Style-guide validation with pre-commit and CI.<br/>
+      - Monorepo setup with Pants.<br/>
+      - Creating company-wide Developer Handbook. <br/>
+      - Custom linter for Docker and Docker Compose.<br/>
+      - Teaching good practices for Docker, Docker Compose and Podman.<br/>
+  - role: DocOps Engineer and Technical Documentation Lead
+    time: December 2020 - January 2022
+    company: Onna
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Developing, deploying and maintaining quality assurance of APIs and documentation.<br/>
+      - Developing API and documentation style-guides, API design and API review.<br/>
+      - Developing and introducing API design and test processes.
+  - role: DocOps Engineer
+    time: December 2019 - September 2020
+    company: Pronovix
+    details: |
+      - Developing, deploying and maintaining quality assurance of APIs and documentation.<br/>
+      - Usage of various continuous integration (CI) provider for automated checking.
+  - role: DevOps Engineer
+    time: September 2019 - October 2019
+    details: |
+      - Developing, deploying and maintaining the Infrastructure, based on CentOS, DC/OS and Docker.<br/>
+      - Usage of Ansible and Jenkins for continuous integration (CI) automated roll-outs.
+    company: Sloppy
+  - role: DevOps Engineer
+    time: March 2018 - September 2019
+    company: Wundertax
+    details: |
+      - Developing, deploying and hosting the Web Infrastructure, based on Plone, Varnish, Nginx, Kubernetes, Docker, AWS, and Deis.<br/>
+      - Usage of CricleCI for continuous integration (CI) automated roll-outs.
+  - role: DevOps Engineer
+    time: 2010 - March 2018
+    company: Milieudefensie
+    details: |
+      - Developing, deploying and hosting the Web Infrastructure, based on Plone, WordPress, PostgreSQL, Varnish, Borg, Ansible, virtualization (OpenVZ, KVM, LXD) and microservices (Docker).<br>
+      - Usage of TravisCI, CricleCI and Drone for continuous integration (CI) and partly automated roll-outs.
+  - role: Admin
+    time: 2009
+    company: Toltech/AccelCloud
+    details: |
+      - High performance hosting, private office ~ and storage clouds.
+  - role: Developer
+    time: 2008
+    company: Contactivity
+    details: |
+      - Developing, deploying and hosting Plone, eZ and WordPress sites/portals.
+  - role: Admin/NOC
+    time: 2007
+    company: Waag Society, Institute for Art, Science and Technology
+    details: |
+      - System and network administrator.
 
 certifications:
   title: Certifications
