@@ -122,6 +122,7 @@ experiences:
       - Introducing dashboards and metrics (Grafana and Prometheus) for detailed documentation monitoring (PRs, amount of pages, amount of words per page, amount of lines per page and such).<br/>
       - Integrating AI based search into documentation.<br/>
       - Integrating custom search and search scraper with Typesense.<br/>
+      - Establish screenshot automatization for consistent and always up-to-date UI documentation.<br/>
   - role: DX (Developer Experience) Lead
     time: January 2022 - December 2022
     company: Onna
