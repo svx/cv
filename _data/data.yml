@@ -71,6 +71,9 @@ career-profile:
 education:
   title: Talks
   info:
+  - degree: Watch your language - How guidelines and tools can help
+    university: Meetup
+    time: 2022
   - degree: Write Drunk - Test Automated
     university: FOSDEM 2019
     time: 2017
