@@ -323,7 +323,7 @@ skills:
   - name: Container (Docker, rkt)
     level: 85%
 
-  - name: Container hosting (CoreOS, RancherOS, K8s, Portainer)
+  - name: Container hosting (CoreOS, Rancher, K8s, Portainer)
     level: 70%
 
   - name: Languages (Golang, Markdown, Bash, reST, Python)
