@@ -121,7 +121,7 @@ experiences:
       - Developed new documentation processes, guidelines, and tooling, resulting in faster deploys, consistent documentation and enhanced user experience.<br/>
       - Created new content and documentation structure for various projects, resulting to enhanced  user experience based on good practices and user research.<br/>
       - Integrated AI-based search into documentation and integrated custom search and search scraper with Typesense, leading to better and consistent search results.<br/>
-      - Established screenshot automatization for consistent and always up-to-date UI documentation, improving the documentation with always up-to-date screenshots.<br/>
+      - Established screenshot automatization for consistent UI documentation, improving the documentation with always up-to-date screenshots.<br/>
       - Designed and implemented a fully automated "Docs as Code" CI/CD pipeline, reducing deployment time by 80% and increasing the general quality of the documentation.<br/>
   - role: Developer Experience Lead
     time: December 2020 - December 2022
@@ -158,7 +158,7 @@ experiences:
     time: 2010 - March 2018
     company: Milieudefensie
     details: |
-      - Managed cloud infrastructure and CI/CD pipelines for web applications.<br/>
+      Managed cloud infrastructure and CI/CD pipelines for web applications.<br/>
       - Designed and implemented a fully automated CI/CD pipeline, reducing deployment time by 50% and increasing deployment frequency by 75%.<br/>
       - Developed and maintained scripts for system automation, reducing manual intervention by 60% and increasing system efficiency by 40%.<br/>
   - role: System Administrator and Support
