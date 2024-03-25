@@ -65,7 +65,7 @@ career-profile:
     <br/>
     With a knack for developing and implementing new processes, guidelines, and cutting-edge tools, I've led transformative changes in technical documentation.<br/>
 
-    With a strong background in open-source projects and a dedication to elevating the Developer Experience (DX), I'm here to revolutionize how we perceive and interact with technical documentation."
+    With a strong background in open-source projects and a dedication to elevating the Developer Experience (DX), I'm here to revolutionize how we perceive and interact with technical documentation.
 
 
 education:
@@ -124,7 +124,7 @@ experiences:
       - Established screenshot automatization for consistent and always up-to-date UI documentation, improving the documentation with always up-to-date screenshots.<br/>
       - Designed and implemented a fully automated "Docs as Code" CI/CD pipeline, reducing deployment time by 80% and increasing the general quality of the documentation.<br/>
   - role: Developer Experience Lead
-    time: December 2019 - December 2022
+    time: December 2020 - December 2022
     company: Onna
     details: |
       - Developed and introduced new processes, guidelines, and tooling for documentation and developer experience (internal and external).<br/>
