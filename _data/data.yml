@@ -335,6 +335,9 @@ skills:
   - name: Linux (most common distributions)
     level: 90%
 
+  - name: Developer Portals and API Gateways (Kong, Tyk, Traefik Hub, Stoplight,  Redoc, ReadMe)
+    level: 80%
+
   - name: Other (Varnish, Traefik)
     level: 80%
 
