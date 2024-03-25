@@ -302,9 +302,6 @@ skills:
   - name: Documentation tools (Sphinx, MkDocs, AsciiDoc, GitBook, Docusaurus, etc)
     level: 99%
 
-  - name: Ruby on Rails
-    level: 85%
-
   - name: CI (Jenkins, Travis, CircleCI, Drone, GitHub Actions)
     level: 80%
 
