@@ -60,12 +60,12 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    Being involved into various open-source projects, I developed a strong passion for documentation and developer experience (DX).<br/>
-    For me (technical) documentation is more than "just" explaining how things are working.<br/>
-    Good documentation is part of a great developer and user experience.<br/>
+    Transforming Tech Documentation with Innovation: Crafting User-Centric Experiences for 14+ Years!<br/>
+    As a Technical Documentation Specialist, I'm not just about explaining how things work – I'm all about enhancing developer and user experiences.
     <br/>
-    Let's put the fun back into reading documentation and create the best DX possible for more efficiently and happiness!
-    <br/>
+    With a knack for developing and implementing new processes, guidelines, and cutting-edge tools, I've led transformative changes in technical documentation.<br/>
+
+    With a strong background in open-source projects and a dedication to elevating the Developer Experience (DX), I'm here to revolutionize how we perceive and interact with technical documentation."
 
 
 education:
@@ -118,78 +118,64 @@ experiences:
     time: January 2023 - Present
     company: Traefik Labs
     details: |
-      - Developing and introducing new documentation processes, guidelines, and tooling.<br/>
-      - Creating new content and documentation structure for various projects to enhance the user experience based on good practices and user research.<br/>
-      - Introducing templates for unifying documentation and creating an improved UX.<br/>
-      - Migrating documentation from MkDocs to Docusaurus, introducing modern and good documentation practices and content guidelines.<br/>
-      - Implementing custom Docusaurus components to enhance the user experience.<br/>
-      - Introducing modern documentation quality checks (local and with CI).<br/>
-      - Creating custom QA rules and configurations for docs-like-code tools to set a baseline and enhance the quality of various documentation projects.<br/>
-      - Introducing dashboards and metrics (Grafana and Prometheus) for detailed documentation monitoring (PRs, amount of pages, amount of words per page, amount of lines per page and such).<br/>
-      - Integrating AI based search into documentation.<br/>
-      - Integrating custom search and search scraper with Typesense.<br/>
-      - Establish screenshot automatization for consistent and always up-to-date UI documentation.<br/>
-      - Establish style-guide for UI naming and wording.<br/>
-  - role: DX (Developer Experience) Lead
-    time: January 2022 - December 2022
+      - Developed new documentation processes, guidelines, and tooling, resulting in faster deploys, consistent documentation and enhanced user experience.<br/>
+      - Created new content and documentation structure for various projects, resulting to enhanced  user experience based on good practices and user research.<br/>
+      - Integrated AI-based search into documentation and integrated custom search and search scraper with Typesense, leading to better and consistent search results.<br/>
+      - Established screenshot automatization for consistent and always up-to-date UI documentation, improving the documentation with always up-to-date screenshots.<br/>
+      - Designed and implemented a fully automated "Docs as Code" CI/CD pipeline, reducing deployment time by 80% and increasing the general quality of the documentation.<br/>
+  - role: Developer Experience Lead
+    time: December 2019 - December 2022
     company: Onna
     details: |
-      Create the best DX possible for more efficiently and happiness.
-      - Developing and introducing new processes, guidelines and tooling.<br/>
-      - Templates and tooling for unified READMEs and documentation.<br/>
-      - Style-guides for Python, Docker and Docker Compose.<br/>
-      - Introduce new CI setup and pipelines with faster checks and builds, reducing time to deploy.<br/>
-      - Style-guide validation with pre-commit and CI.<br/>
-      - Monorepo setup with Pants.<br/>
-      - Creating company-wide Developer Handbook. <br/>
-      - Custom linter for Docker and Docker Compose.<br/>
-      - Teaching good practices for Docker, Docker Compose and Podman.<br/>
-  - role: DocOps and Technical Documentation Lead
-    time: December 2020 - January 2022
-    company: Onna
-    details: |
-      - Developing, deploying and maintaining quality assurance of APIs and documentation.<br/>
-      - Developing API and documentation style-guides, API design and API review.<br/>
-      - Developing and introducing API design and test processes.
+      - Developed and introduced new processes, guidelines, and tooling for documentation and developer experience (internal and external).<br/>
+      - Created templates and tooling for unified READMEs and documentation, resulting in consistent setups and faster developer onboarding.<br/>
+      - Introduced new CI setups and pipelines with faster checks and builds, reducing time to deploy.<br/>
+      - Developed API design and test processes leading to consistent APIs with enhanced developer experience.<br/>
+      - Created company-wide Developer Handbook, to enhance and ease onboarding.<br/>
+      - Implemented good practices for Docker, Docker Compose, and Podman and introduced custom linting, resulting in smaller and more secure images which reduced the build and deploy time.<br/>
   - role: DocOps Engineer
     time: December 2019 - September 2020
     company: Pronovix
     details: |
-      - Developing, deploying and maintaining quality assurance of APIs and documentation.<br/>
-      - Usage of various continuous integration (CI) provider for automated checking.
+      - Developed, deployed and maintained quality assurance guides for APIs and documentation, improving the general quality.<br/>
+      - Created custom Docker images and Docker Compose setups for showcasing "Docs as Code" resulting in enhanced customer demos.<br/>
+      - Consulted customers about "Docs as Code" solutions and implementations leading to faster deploys, higher quality of documentation and enhanced developer experience.<br/>
   - role: DevOps Engineer
     time: September 2019 - October 2019
     details: |
-      - Developing, deploying and maintaining the Infrastructure, based on CentOS, DC/OS and Docker.<br/>
-      - Usage of Ansible and Jenkins for continuous integration (CI) automated roll-outs.
+      - Implemented and maintained automated build and deployment processes based on CentOS, DC/OS, and Docker.<br/>
+      - Reduced deployment times by enhancing, creating and maintaining Ansible playbooks and roles.<br/>
+      - Provided technical support to development teams for applications deployments.<br/>
     company: Sloppy
   - role: DevOps Engineer
     time: March 2018 - September 2019
     company: Wundertax
     details: |
-      - Developing, deploying and hosting the Web Infrastructure, based on Plone, Varnish, Nginx, Kubernetes, Docker, AWS, and Deis.<br/>
-      - Usage of CricleCI for continuous integration (CI) automated roll-outs.
+      - Developed and maintained AWS cloud infrastructure for web applications.<br/>
+      - Managed deployments in Kubernetes with Deis, resulting in more consistent and faster deploys.<br/>
+      - Introduced guidelines and automated QA checks for Docker images, improving the size, security and deploy time.<br/>
   - role: DevOps Engineer
     time: 2010 - March 2018
     company: Milieudefensie
     details: |
-      - Developing, deploying and hosting the Web Infrastructure, based on Plone, WordPress, PostgreSQL, Varnish, Borg, Ansible, virtualization (OpenVZ, KVM, LXD) and microservices (Docker).<br>
-      - Usage of TravisCI, CricleCI and Drone for continuous integration (CI) and partly automated roll-outs.
-  - role: Admin
+      - Managed cloud infrastructure and CI/CD pipelines for web applications.<br/>
+      - Designed and implemented a fully automated CI/CD pipeline, reducing deployment time by 50% and increasing deployment frequency by 75%.<br/>
+      - Developed and maintained scripts for system automation, reducing manual intervention by 60% and increasing system efficiency by 40%.<br/>
+  - role: System Administrator and Support
     time: 2009
     company: Toltech/AccelCloud
-    details: |
-      - High performance hosting, private office ~ and storage clouds.
+    #details: |
+    #  - High performance hosting, private office ~ and storage clouds.
   - role: Developer
     time: 2008
     company: Contactivity
-    details: |
-      - Developing, deploying and hosting Plone, eZ and WordPress sites/portals.
-  - role: Admin/NOC
+    #details: |
+    #  - Developing, deploying and hosting Plone, eZ and WordPress sites/portals.
+  - role: System Administrator
     time: 2007
     company: Waag Society, Institute for Art, Science and Technology
-    details: |
-      - System and network administrator.
+    #details: |
+    #  - System and network administrator.
 
 certifications:
   title: Certifications
@@ -260,19 +246,19 @@ projects:
 oss:
   title: OSS Contributions
   intro: >
-    In my free time, I contribute to various open-source projects and communities.
+    In my free time, I love to contribute to open-source projects and communities.
   contributions:
   - title: Plone
     link: "https://plone.org/"
-    tagline: "Plone is an open-source content management system (CMS). "
+    tagline: "Plone is an open-source content management system (CMS)."
 
   - title: Traefik
     link: "https://doc.traefik.io/traefik/"
     tagline: "Traefik is an open-source Edge Router that makes publishing your services a fun and easy experience."
 
-  - title: TestTheDocs - Incubator
-    link: "https://github.com/testthedocs"
-    tagline: "A small community around docs-as-code and documentation tooling."
+  #- title: TestTheDocs - Incubator
+  #  link: "https://github.com/testthedocs"
+  #  tagline: "A small community around docs-as-code and documentation tooling."
 
   - title: Write the Docs
     link: "https://www.writethedocs.org/"
