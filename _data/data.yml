@@ -320,7 +320,7 @@ skills:
   - name: Hosting (KVM, XEN, OpenVZ, LXC/LXD, K8s)
     level: 70%
 
-  - name: Container (Docker, rkt)
+  - name: Container (Docker, Podman)
     level: 85%
 
   - name: Container hosting (CoreOS, Rancher, K8s, Portainer)
