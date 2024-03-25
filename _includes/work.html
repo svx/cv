@@ -1,0 +1,22 @@
+{% assign work = site.data.data.sidebar.work %}
+{% if work %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ work.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for work in work.info %}
+
+      {% if work.link %}
+      <li><a href="{{ work.link }}">{{ work.item }}</a></li>
+      {% else %}
+      <li>{{ work.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}

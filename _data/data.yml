@@ -6,6 +6,8 @@ sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
+  #projects: True
+  work: True
 
   # Profile information
   name: Sven Strack
@@ -57,6 +59,21 @@ sidebar:
     - item: Trail Running
       link:
 
+  work:
+    title: Work Samples
+    info:
+    - item: Traefik Hub Documentation
+      link: https://doc.traefik.io/traefik-hub/
+
+    - item: Traefik Labs Blog Post
+      link: https://traefik.io/blog/boost-your-homelab-setup-with-traefik-hub-part-i-portainer/
+
+    - item: Onna Platform API Documentation
+      link: https://dev.onna.com/
+
+    - item: Pronovix Blog Post
+      link: https://pronovix.com/blog/docops-engineering-stunning-api-documentation
+
 career-profile:
   title: About Me
   summary: |
@@ -86,30 +103,30 @@ education:
   - degree: Future of docs
     university: Plone Midsummer Sprint, Finnland
     time: 2017
-  - degree: The future of docs.plone.org - (Lightning Talk)
-    university: Plone Conference, Boston
-    time: 2016
+  #- degree: The future of docs.plone.org - (Lightning Talk)
+  #  university: Plone Conference, Boston
+  #  time: 2016
   - degree: Building docs in your CI environment
     university: WriteTheDocs Meetup, Berlin
     time: 2016
-  - degree: TestTheDocs, a new community - (Lightning Talk)
-    university: WriteTheDocs Conference, Prague
-    time: 2016
+  #- degree: TestTheDocs, a new community - (Lightning Talk)
+  #  university: WriteTheDocs Conference, Prague
+  #  time: 2016
   - degree: The importance of documentation
     university: Plone Conference, Bucharest
     time: 2015
-  - degree: Why documentation is important for your business
-    university: Plone Symposium Tokyo
-    time: 2015
-  - degree: Mr. Gutenberg, a buildout recipe for following documentation guidelines
-    university: Plone Symposium Midwest, Oshkosh
-    time: 2014
-  - degree: Cultural Learnings of Documentation for Make Benefit Glorious Nation of Plonistan
-    university: Plone Conference, Bristol
-    time: 2014
-  - degree: There is more than one way to install Plone
-    university: Plone Conference, Brazil
-    time: 2013
+    #- degree: Why documentation is important for your business
+    #  university: Plone Symposium Tokyo
+    #  time: 2015
+    #- degree: Mr. Gutenberg, a buildout recipe for following documentation guidelines
+    #  university: Plone Symposium Midwest, Oshkosh
+    #  time: 2014
+    #- degree: Cultural Learnings of Documentation for Make Benefit Glorious Nation of Plonistan
+    #  university: Plone Conference, Bristol
+    #  time: 2014
+    #- degree: There is more than one way to install Plone
+    #  university: Plone Conference, Brazil
+    #  time: 2013
 
 experiences:
   title: Experiences
@@ -265,21 +282,21 @@ oss:
     tagline: "A global community of people who care about documentation."
 
 publications:
-  title: Publications
+  title: Writing
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: Traefik Hub
+    link: "https://doc.traefik.io/traefik-hub/"
+    #authors: Donald E. Knuth
+    #conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: "Onna Developer Hub"
+    link: "https://dev.onna.com/"
+    #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
   - title: A syntax directed compiler for Algol 60
     link: "#"
@@ -293,17 +310,20 @@ skills:
   - name: OpenAPI, GraphQL (and related tooling for documentation, designing, mocking and testing)
     level: 98%
 
-  - name: Web server (Nginx, Apache, Caddy, Lighttpd)
-    level: 98%
-
-  - name: Static blog engines (Hugo, Pelican, Jekyll)
-    level: 98%
+  - name: Developer Portals and API Gateways (Kong, Tyk, Traefik Hub, Stoplight,  Redoc, ReadMe)
+    level: 80%
 
   - name: Documentation tools (Sphinx, MkDocs, AsciiDoc, GitBook, Docusaurus, etc)
     level: 99%
 
+  - name: Static blog engines (Hugo, Pelican, Jekyll)
+    level: 98%
+
   - name: CI (Jenkins, Travis, CircleCI, Drone, GitHub Actions)
     level: 80%
+
+  - name: Web server (Nginx, Apache, Caddy, Lighttpd)
+    level: 98%
 
   - name: Packaging (deb, rpm, aur, nix, brew)
     level: 75%
@@ -332,11 +352,8 @@ skills:
   - name: Linux (most common distributions)
     level: 90%
 
-  - name: Developer Portals and API Gateways (Kong, Tyk, Traefik Hub, Stoplight,  Redoc, ReadMe)
-    level: 80%
-
   - name: Other (Varnish, Traefik)
     level: 80%
 
 footer: >
-  
+
