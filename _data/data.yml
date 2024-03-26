@@ -77,8 +77,7 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    Transforming Tech Documentation with Innovation: Crafting User-Centric Experiences for 14+ Years!<br/>
-    As a Technical Documentation Specialist, I'm not just about explaining how things work – I'm all about enhancing developer and user experiences.
+    As a Technical Documentation Specialist, I'm not just about explaining how things work – I'm all about enhancing developer and user experiences.<br/>
     <br/>
     With a knack for developing and implementing new processes, guidelines, and cutting-edge tools, I've led transformative changes in technical documentation.<br/>
 
@@ -349,11 +348,6 @@ skills:
   - name: Monitoring (Nagios, Sensu, Icinga, Zabbix, Prometheus, Grafana, Datadog)
     level: 60%
 
-  - name: Linux (most common distributions)
-    level: 90%
-
-  - name: Other (Varnish, Traefik)
-    level: 80%
 
 footer: >
 
